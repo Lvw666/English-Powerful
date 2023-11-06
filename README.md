@@ -8,3 +8,6 @@
   -  `slash` /slæʃ/ n.斜杠
 - Select an Image or Create Variations
   -  `variation` /ˌveriˈeɪʃ(ə)n/ n.变化，变动
+- a cozy marble kitchen with wine glasses
+  -  `cozy` adj.舒适的
+  -  `marble` n.大理石
