@@ -6,8 +6,8 @@
     - `stunning` /ˈstʌnɪŋ/ adj.极好的，极吸引人的；令人震惊的
 3. the list of available slash commands
     - `slash` /slæʃ/ n.斜杠
-4.  Select an Image or Create Variations
+4. Select an Image or Create Variations
     - `variation` /ˌveriˈeɪʃ(ə)n/ n.变化，变动
-5.   a cozy marble kitchen with wine glasses
+5. a cozy marble kitchen with wine glasses
     - `cozy` adj.舒适的
     - `marble` n.大理石
