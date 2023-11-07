@@ -12,4 +12,4 @@
     - `cozy` adj.舒适的
     - `marble` n.大理石
 6. Migration troubleshooting in development
-7. 
+    - `troubleshooting` /ˈtrʌblʃuːtɪŋ/ n.解决纷争；发现并修理故障
