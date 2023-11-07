@@ -24,3 +24,7 @@
 ### 6. Migration troubleshooting in development
 
 - `troubleshooting` /ˈtrʌblʃuːtɪŋ/ n.解决纷争；发现并修理故障
+
+### 7. Schema drift
+- `drift` /drɪft/ v.飘移，漂流; n.流动，趋势;偏航
+- 指数据库的实际架构与预期或者版本控制系统中记录的架构之间的不一致
