@@ -1,6 +1,6 @@
 # English-powerful
 
-1. GPU Clusters(GPU 集群)
+### 1.GPU Clusters(GPU 集群)
     - `cluster` /ˈklʌstər/ n.组，簇；星团；一连串同类事件；一群人；丛集，群集
 2. generate stunning images
     - `stunning` /ˈstʌnɪŋ/ adj.极好的，极吸引人的；令人震惊的
