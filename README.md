@@ -11,3 +11,5 @@
 5. a cozy marble kitchen with wine glasses
     - `cozy` adj.舒适的
     - `marble` n.大理石
+6. Migration troubleshooting in development
+7. 
