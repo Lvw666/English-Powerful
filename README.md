@@ -28,3 +28,8 @@
 ### 7. Schema drift
 - `drift` /drɪft/ v.飘移，漂流; n.流动，趋势;偏航
 - 指数据库的实际架构与预期或者版本控制系统中记录的架构之间的不一致
+
+### 8. Diagram as Code
+
+- `diagram` /ˈdaɪəɡræm/ n.图表，图解；几何图形
+
