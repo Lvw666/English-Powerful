@@ -33,3 +33,7 @@
 
 - `diagram` /ˈdaɪəɡræm/ n.图表，图解；几何图形
 
+### 9. Entity Relationship
+
+- `entity` /ˈentəti/ 实体，独立存在体
+
