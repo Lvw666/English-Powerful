@@ -1,6 +1,6 @@
 # English-powerful
 
-### 1.GPU Clusters(GPU 集群)
+### 1. GPU Clusters(GPU 集群)
 
 `cluster` /ˈklʌstər/ n.组，簇；星团；一连串同类事件；一群人；丛集，群集
 
@@ -18,8 +18,8 @@
 
 ### 5.a cozy marble kitchen with wine glasses
 
-`cozy` adj.舒适的
-`marble` n.大理石
+- `cozy` adj.舒适的
+- `marble` n.大理石
 
 ### 6.Migration troubleshooting in development
 
