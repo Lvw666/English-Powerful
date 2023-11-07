@@ -35,5 +35,8 @@
 
 ### 9. Entity Relationship
 
-- `entity` /ˈentəti/ 实体，独立存在体
+- `entity` /ˈentəti/ n.实体，独立存在体
+
+### 10. Portal
+- `portal` /ˈpɔːrtl/ n.正门；门户网站，入口站点
 
