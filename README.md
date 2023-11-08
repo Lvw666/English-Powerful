@@ -40,3 +40,6 @@
 ### 10. Portal
 - `portal` /ˈpɔːrtl/ n.正门；门户网站，入口站点
 
+### 11. OS (Operating System) Kernel
+- `kernel` /ˈkɜːrn(ə)l/ n.核；核心，要点；核心程序
+
