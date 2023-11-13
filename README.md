@@ -43,3 +43,7 @@
 ### 11. OS (Operating System) Kernel
 - `kernel` /ˈkɜːrn(ə)l/ n.核；核心，要点；核心程序
 
+### 11. framer motion
+- `framer` /ˈfreɪmər/ n.组成者；筹划者
+- `motion` /ˈmoʊʃ(ə)n/ n.运动，移动；手势，动作；提议，议案； v.打手势，示意
+
