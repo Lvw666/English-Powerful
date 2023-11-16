@@ -56,7 +56,7 @@
 
 ### 15. <div> cannot appear as a descendant of <p>
 - `descendant` /dɪˈsendənt/ n.后裔，子孙；派生物，衍生物 adj.下降的；祖传的
-- <div> 不能作为 <p> 的后代出现，说明 <p> 内不能嵌套 <div>
+- div 不能作为 p 的后代出现，说明 p 内不能嵌套 div
 
 
 
