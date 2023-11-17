@@ -67,7 +67,8 @@
 ### 17. miscellaneous icons
 - `miscellaneous` /ˌmɪsəˈleɪniəs/ adj.（人，物）混杂的，各种各样的；多方面的，多才多艺的
 
-
+### 18. course catalog
+- `catalog` /ˈkætəlɔːɡ/ n.目录
 
 
 
