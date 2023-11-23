@@ -74,6 +74,9 @@
 - `hydration` /haɪˈdreɪʃn/ n.水合作用
 - 页面水合是现代web开发中一个重要的概念，它使得开发者能够结合SSR的优点和客户端JavaScript的丰富交互，为用户提供更快速、更优化的网页体验
 
+### 20. trying to replicate it
+- `replicate` /ˈreplɪkeɪt/ v.重复，复制
+
 
 
 
