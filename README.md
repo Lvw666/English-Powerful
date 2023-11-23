@@ -1,4 +1,4 @@
-# English-powerful
+# English-Powerful
 
 ### 1. GPU Clusters(GPU 集群)
 
