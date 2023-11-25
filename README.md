@@ -77,7 +77,9 @@
 ### 20. trying to replicate it
 - `replicate` /ˈreplɪkeɪt/ v.重复，复制
 
-
+### 21. Unprocessable Entity
+- `entity` /ˈentəti/ n.实体，独立存在体
+- 通常在计算机编程和网络通信领域使用，它表示某种类型的错误或无法处理的情况
 
 
 
