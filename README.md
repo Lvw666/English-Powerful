@@ -89,6 +89,10 @@
 - `outsourcing` n.外包；外购；外部采办
 - UI 外包
 
+### 24. Type can be omitted
+- `omit` /əˈmɪt/ v.省去，遗漏；不做
+
+
 
 
 
