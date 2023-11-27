@@ -85,6 +85,11 @@
 - `patch` /pætʃ/ n.补丁 v.打补丁
 - 通常是在使用像 Express.js 这样的 Node.js web 框架时遇到的一个方法。它用于定义一个路由处理器，处理 HTTP PATCH 请求。HTTP PATCH 请求通常用于对资源进行部分更新。与 PUT 请求（通常用于替换资源）不同，PATCH 请求只需要包含更改的数据，而不是完整的资源数据
 
+### 23. UI Outsourcing
+- `outsourcing` n.外包；外购；外部采办
+- UI 外包
+
+
 
 
 
