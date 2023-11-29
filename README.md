@@ -92,8 +92,9 @@
 ### 24. Type can be omitted
 - `omit` /əˈmɪt/ v.省去，遗漏；不做
 
-
-
+### 25. err != nil
+- `nil` /nɪl/ n.无；空；零，零分
+- 在 Go 语言中，检查 err != nil 是一种常见的处理错误的方式
 
 
 
