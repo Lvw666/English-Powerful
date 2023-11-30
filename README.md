@@ -96,5 +96,13 @@
 - `nil` /nɪl/ n.无；空；零，零分
 - 在 Go 语言中，检查 err != nil 是一种常见的处理错误的方式
 
+### 26. Knowledge Fragment
+- `fragment` /ˈfræɡmənt/ n.碎片；片段；残存部分
+
+
+
+
+
+
 
 
