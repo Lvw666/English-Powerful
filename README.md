@@ -99,6 +99,11 @@
 ### 26. Knowledge Fragment
 - `fragment` /ˈfræɡmənt/ n.碎片；片段；残存部分
 
+### 27. Apple Silicon
+- `silicon` /ˈsɪlɪkən/
+- Apple Silicon 是苹果公司开发的一系列自家设计的ARM架构处理器
+
+
 
 
 
