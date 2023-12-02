@@ -103,7 +103,9 @@
 - `silicon` /ˈsɪlɪkən/
 - Apple Silicon 是苹果公司开发的一系列自家设计的ARM架构处理器
 
-
+### 28. compound type
+- `compound` n.混合物 adj.复合的，混合的
+- 只数组、切片等的复合类型
 
 
 
