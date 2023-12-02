@@ -105,7 +105,7 @@
 
 ### 28. compound type
 - `compound` n.混合物 adj.复合的，混合的
-- 只数组、切片等的复合类型
+- 指数组、切片等的复合类型
 
 ### 29. Object-Oriented Programming
 - `orient` /ˈɔːrient/ v.朝向，面对；确定方位，认识方向（orient oneself）；引导；使熟悉
