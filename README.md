@@ -111,7 +111,9 @@
 - `orient` /ˈɔːrient/ v.朝向，面对；确定方位，认识方向（orient oneself）；引导；使熟悉
 - 面向对象的意思，常简称为 OOP
 
-
+### 30. defer
+- `defer` /dɪˈfɜːr/ v.延期，推迟
+- Go 语言中 defer 语句用于延迟调用函数
 
 
 
