@@ -115,6 +115,10 @@
 - `defer` /dɪˈfɜːr/ v.延期，推迟
 - Go 语言中 defer 语句用于延迟调用函数
 
+### 31. recursive function
+- `recursive` /rɪˈkɜːrsɪv/ adj.递归的；循环的
+- 指递归函数
+
 
 
 
