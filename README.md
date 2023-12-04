@@ -119,6 +119,11 @@
 - `recursive` /rɪˈkɜːrsɪv/ adj.递归的；循环的
 - 指递归函数
 
+### 32. Variable 'min' collides with the 'builtin' function
+- `builtin` /ˈbɪltɪn/ n.执行内建的函数；内键指令 adj.内置的
+
+### 33. protocol
+- `protocol` n.协议
 
 
 
