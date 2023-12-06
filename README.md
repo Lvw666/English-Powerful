@@ -125,6 +125,13 @@
 ### 33. protocol
 - `protocol` n.协议
 
+### 34. traversal
+- `traverval` /trəˈvərs(ə)l/ n.遍历；横越；横断物
+
+### 35. iterate
+- `iterate` /ˈɪtəreɪt/ vt.迭代；重复；反复说；重做
+
+
 
 
 
