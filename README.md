@@ -131,7 +131,8 @@
 ### 35. iterate
 - `iterate` /ˈɪtəreɪt/ vt.迭代；重复；反复说；重做
 
-
+### 36. Input Monitoring
+- `monitor` /ˈmɑːnɪtər/ n.显示器，监控器；班长；监听员； v.监视；监听；监控
 
 
 
