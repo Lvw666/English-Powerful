@@ -134,5 +134,10 @@
 ### 36. Input Monitoring
 - `monitor` /ˈmɑːnɪtər/ n.显示器，监控器；班长；监听员； v.监视；监听；监控
 
+### 37. Verify Exam Info Integrality
+- `integrality` /ˌɪntəˈɡrælətɪ/ n.完整性；不可欠缺
+
+
+
 
 
