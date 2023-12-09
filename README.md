@@ -140,6 +140,14 @@
 ### 38. Fundamental
 - `fundamental` /ˌfʌndəˈmentl/ n.基本面；基本原理
 
+### 39. widget
+- `widget` /ˈwɪdʒɪt/ n.装饰物；小机械；小部件
+
+
+
+
+
+
 
 
 
