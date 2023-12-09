@@ -137,6 +137,8 @@
 ### 37. Verify Exam Info Integrality
 - `integrality` /ˌɪntəˈɡrælətɪ/ n.完整性；不可欠缺
 
+### 38. Fundamental
+- `fundamental` /ˌfʌndəˈmentl/ n.基本面；基本原理
 
 
 
