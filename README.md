@@ -146,7 +146,8 @@
 ### 40. Wonderland
 - `wonderland` n.奇境，仙境；非常奇妙的地方
 
-
+### 41. accumulator
+- `accumulator` /əˈkjuːmjəleɪtər/ n.蓄电池；累加器
 
 
 
