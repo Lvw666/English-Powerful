@@ -157,6 +157,11 @@
 ## 43. Account Synchronization
 - `synchronization` /ˌsɪŋkrənəˈzeɪʃ(ə)n/ n.同步，同时性
 
+## 44. Bidirectional Registration
+- `bidirectional` /ˌbaɪdəˈrekʃənl/ adj.双向的；双向作用的
+
+## 45. Unidirectional Update
+- `unidirectional` /ˌjunədəˈrekʃənəl/ adj.单向的；单向性的
 
 
 
