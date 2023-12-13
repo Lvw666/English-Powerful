@@ -149,18 +149,18 @@
 ### 41. accumulator
 - `accumulator` /əˈkjuːmjəleɪtər/ n.蓄电池；累加器
 
-## 42. Field Mapping
+### 42. Field Mapping
 - 指的是字段映射
 - 在数据库管理和数据集成的上下文中，字段映射（Field Mapping）是指将一个数据库系统中的字段与另一个数据库系统中的字段相对应的过程。
 - 这个过程非常关键，特别是在涉及到不同类型数据库（如 MongoDB 和 PostgreSQL）的数据同步和迁移时。
 
-## 43. Account Synchronization
+### 43. Account Synchronization
 - `synchronization` /ˌsɪŋkrənəˈzeɪʃ(ə)n/ n.同步，同时性
 
-## 44. Bidirectional Registration
+### 44. Bidirectional Registration
 - `bidirectional` /ˌbaɪdəˈrekʃənl/ adj.双向的；双向作用的
 
-## 45. Unidirectional Update
+### 45. Unidirectional Update
 - `unidirectional` /ˌjunədəˈrekʃənəl/ adj.单向的；单向性的
 
 
