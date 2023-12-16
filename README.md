@@ -163,8 +163,15 @@
 ### 45. Unidirectional Update
 - `unidirectional` /ˌjunədəˈrekʃənəl/ adj.单向的；单向性的
 
-## 46. cellular
+### 46. cellular
 - `cellular` /ˈseljələr/ adj.（电话系统）蜂窝状的，蜂窝式的；由细胞组成的，细胞的 n.移动电话 
+
+### 47. Ecommerce
+- `electronic commerce` /ˈkɒmɜːs/ n.贸易，商业
+- 指的是电子商务
+
+
+
 
 
 
