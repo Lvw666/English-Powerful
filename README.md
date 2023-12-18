@@ -170,6 +170,13 @@
 - `electronic commerce` /ˈkɒmɜːs/ n.贸易，商业
 - 指的是电子商务
 
+### 48. variant
+- `variant` /ˈveriənt/ n.变种，变形；（单词拼写或读音的）变异，变体 adj.不同的，变体的，变种的
+
+
+
+
+
 
 
 
