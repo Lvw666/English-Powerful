@@ -173,7 +173,9 @@
 ### 48. variant
 - `variant` /ˈveriənt/ n.变种，变形；（单词拼写或读音的）变异，变体 adj.不同的，变体的，变种的
 
-
+### 49. thumnailUrl
+- `thumbnail` /ˈθʌmneɪl/ adj.极小的，极短的 n.拇指指甲；极小的东西；短文
+- 表示缩略图 Url
 
 
 
