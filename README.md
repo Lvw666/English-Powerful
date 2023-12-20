@@ -180,7 +180,8 @@
 ### 50. genre
 - `genre` /ˈʒɑːnrə/ n.体裁，类型；风俗画 adj.属于某类型的，按某种风格创作的
 
-
+### 51. insinuate
+- `insinuate` /ɪnˈsɪnjueɪt/ vt.暗示 vi.暗讽
 
 
 
