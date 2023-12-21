@@ -183,7 +183,8 @@
 ### 51. insinuate
 - `insinuate` /ɪnˈsɪnjueɪt/ vt.暗示 vi.暗讽
 
-
+### 52. tweake
+- `tweake` /twiːk/ v.调整
 
 
 
