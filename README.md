@@ -190,6 +190,17 @@
 - `lake` /leɪk/ n.湖，湖泊
 - 数据湖（指使用原始格式存储数据的系统）
 
+### 54. revalidateIfStale
+- `stale` /steɪl/ adj.过时的
+- useSWR 的返回值，如果数据过时（stale），不自动重新验证（revalidate）
+
+
+
+
+
+
+
+
 
 
 
