@@ -194,7 +194,9 @@
 - `stale` /steɪl/ adj.过时的
 - useSWR 的返回值，如果数据过时（stale），不自动重新验证（revalidate）
 
-
+### 55. anonymous filed
+- `anonymous` /əˈnɑːnɪməs/ adj.匿名的
+- 匿名字段
 
 
 
