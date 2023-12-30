@@ -201,6 +201,14 @@
 ### 56. value proposition
 - `proposition` /ˌprɑːpəˈzɪʃ(ə)n/ n.主张，观点
 
+### 57. subsets: ["latin"]
+- `subset` n.子集合
+
+
+
+
+
+
 
 
 
