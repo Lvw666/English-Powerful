@@ -198,7 +198,8 @@
 - `anonymous` /əˈnɑːnɪməs/ adj.匿名的
 - 匿名字段
 
-
+### 56. value proposition
+- `proposition` /ˌprɑːpəˈzɪʃ(ə)n/ n.主张，观点
 
 
 
