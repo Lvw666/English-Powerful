@@ -204,7 +204,8 @@
 ### 57. subsets: ["latin"]
 - `subset` n.子集合
 
-
+### 58. Max Width Wrapper
+- `Wrapper` /ˈræpər/ n.包装纸，包装材料，包装器
 
 
 
