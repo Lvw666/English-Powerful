@@ -211,7 +211,9 @@
 - `robust` /roʊˈbʌst/ adj.强健的，强壮的；稳固的
 - 一个强大的标准库
 
-
+### 60. react-loading-skeleton
+- `skeletion` /ˈskelɪt(ə)n/ n.框架；梗概，提纲
+- 一个 React 显示加载效果的组件
 
 
 
