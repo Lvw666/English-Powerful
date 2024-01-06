@@ -218,6 +218,9 @@
 ### 61. Support for annotations
 - `annotation` /ˌænəˈteɪʃ(ə)n/ n.注释，评注
 
+### 62. Type Assertions
+- `assertion` /əˈsɜːrʃ(ə)n/ n.断言
+- 静态语言中的类型断言
 
 
 
