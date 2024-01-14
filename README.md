@@ -227,6 +227,8 @@
 ### 66. footernote
 - `footnote` n.脚注；补充说明
 
+### 67. hyper-real looking images
+- `hyper-real` adj.超真实
 
 
 
