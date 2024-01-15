@@ -230,6 +230,13 @@
 ### 67. hyper-real looking images
 - `hyper-real` adj.超真实
 
+### 68. bonus
+- `bonus` /ˈboʊnəs/ n.奖金，津贴，红利；意外收获，额外好处
+
+
+
+
+
 
 
 
