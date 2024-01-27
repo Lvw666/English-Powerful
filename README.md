@@ -243,5 +243,15 @@
 - 指“代码责任追踪”（Code Blame）功能的一个输出
 - 在很多版本控制系统中，如 Git，"blame" 功能用于显示每一行代码的最后修改者和修改时间
 
+### 71. Some values returned from *fiber.Ctx are not immutable by default
+- `immutable` /ɪˈmjuːtəb(ə)l/ adj.永恒的，不可改变的
+- fiber.Ctx 是 Go 语言中 Fiber 框架的一个重要部分，它代表了当前的 HTTP 请求和响应的上下文。当 *fiber.Ctx 返回的一些值不是默认不可变（immutable）的时候，这意味着这些值在它们被创建和返回之后，是可以被修改的
+
+
+
+
+
+
+
 
 
