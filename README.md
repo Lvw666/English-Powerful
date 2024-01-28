@@ -247,7 +247,8 @@
 - `immutable` /ɪˈmjuːtəb(ə)l/ adj.永恒的，不可改变的
 - fiber.Ctx 是 Go 语言中 Fiber 框架的一个重要部分，它代表了当前的 HTTP 请求和响应的上下文。当 *fiber.Ctx 返回的一些值不是默认不可变（immutable）的时候，这意味着这些值在它们被创建和返回之后，是可以被修改的
 
-
+### 72. Please wait while the Setup Wizard installs Node.js
+- `wizard` /ˈwɪzərd/ n.向导程序
 
 
 
