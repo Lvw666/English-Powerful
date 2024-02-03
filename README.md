@@ -250,7 +250,8 @@
 ### 72. Please wait while the Setup Wizard installs Node.js
 - `wizard` /ˈwɪzərd/ n.向导程序
 
-
+### 73. additive
+- /ˈædətɪv/ n.添加剂，添加物 
 
 
 
