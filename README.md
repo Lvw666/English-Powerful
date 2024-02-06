@@ -251,8 +251,10 @@
 - `wizard` /ˈwɪzərd/ n.向导程序
 
 ### 73. additive
-- /ˈædətɪv/ n.添加剂，添加物 
+- `additive` /ˈædətɪv/ n.添加剂，添加物 
 
+### 74. AirPlus Pro Stereo
+- `stereo` /ˈsterioʊ/ n.立体声，立体声效果
 
 
 
