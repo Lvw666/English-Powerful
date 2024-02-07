@@ -253,7 +253,7 @@
 ### 73. additive
 - `additive` /ˈædətɪv/ n.添加剂，添加物 
 
-### 74. cell
+### 75. cell
 - `cell` n.单元格
 
 
