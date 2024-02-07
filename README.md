@@ -253,13 +253,11 @@
 ### 73. additive
 - `additive` /ˈædətɪv/ n.添加剂，添加物 
 
-### 75. cell
-- `cell` n.单元格
-
-
-
 ### 74. AirPlus Pro Stereo
 - `stereo` /ˈsterioʊ/ n.立体声，立体声效果
+
+### 75. cell
+- `cell` n.单元格
 
 
 
