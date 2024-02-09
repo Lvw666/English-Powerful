@@ -259,6 +259,10 @@
 ### 75. cell
 - `cell` n.单元格
 
+### 76. Almost the same as app.Use but not bound to prefixes
+- `prefix` /ˈpriːfɪks/ n.前缀；前置代号（置于前面的单词或字母、数字）
+- `bound to` 限制于，约束于
+- 意思是几乎与 app.Use 相同，但不限于前缀
 
 
 
