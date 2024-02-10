@@ -264,5 +264,8 @@
 - `bound to` 限制于，约束于
 - 意思是几乎与 app.Use 相同，但不限于前缀
 
+### 77. wildcard
+- `wildcard` n.通配符；万用字符
+
 
 
