@@ -267,5 +267,11 @@
 ### 77. wildcard
 - `wildcard` n.通配符；万用字符
 
+### 78. Monitor middleware for Fiber that reports server metrics
+- `metric` /ˈmetrɪks/ n.度量
+- 描述了一个用于 Fiber 框架的中间件（middleware），其功能是监控服务器的指标（metrics），并报告它们。这种中间件可以用来跟踪服务器的各种指标，如请求处理时间、请求量、错误率等，并将这些指标报告给管理员或者其他监控系统，以便实时监控和分析服务器的性能和健康状态
+
+
+
 
 
