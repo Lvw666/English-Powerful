@@ -274,6 +274,7 @@
 ### 79. enormously
 - `enormously` adv.极其
 
-
+### 80. mill
+- `mill` n.磨坊
 
 
