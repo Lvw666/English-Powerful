@@ -274,6 +274,8 @@
 ### 79. enormously
 - `enormously` adv.极其
 
+### 80. badge
+- `badge` /bædʒ/ n.徽章，奖章；标记，象征
 
 
 
