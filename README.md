@@ -277,5 +277,7 @@
 ### 80. badge
 - `badge` /bædʒ/ n.徽章，奖章；标记，象征
 
-
+### 81. LLMs
+- `Large Language Models`
+- 指大语言模型
 
