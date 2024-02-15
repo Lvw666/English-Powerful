@@ -281,3 +281,12 @@
 - `Large Language Models`
 - 指大语言模型
 
+### 82. Release notes
+- `release` v.公布，发布
+- 通常指软件的发行说明
+
+
+
+
+
+
