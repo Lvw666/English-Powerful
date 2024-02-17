@@ -288,6 +288,9 @@
 ### 83. combobox
 - `combobox` n.组合框；下拉列表框
 
+### 84. FAQ
+- `Frequently Asked Questions`
+- 指常见问题
 
 
 
