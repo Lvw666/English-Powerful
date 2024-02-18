@@ -292,5 +292,7 @@
 - `Frequently Asked Questions`
 - 指常见问题
 
+### 85. alternatively
+- `alternatively` adv.或者
 
 
