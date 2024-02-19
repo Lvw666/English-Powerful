@@ -295,4 +295,8 @@
 ### 85. alternatively
 - `alternatively` adv.或者
 
+### 86. jsonData, err := json.Marshal(contentResponse)
+- `marshal` /ˈmɑːrʃ(ə)l/ v.结集，安排；控制，组织；整理；成形，有序
+- json.Marshal 的作用是将结构体 contentResponse 转换为 JSON 格式的字节切片
+
 
