@@ -299,4 +299,9 @@
 - `marshal` /ˈmɑːrʃ(ə)l/ v.结集，安排；控制，组织；整理；成形，有序
 - json.Marshal 的作用是将结构体 contentResponse 转换为 JSON 格式的字节切片
 
+### 87. Because Azure supports several API versions simultaneously
+- `simultaneously` /ˌsaɪm(ə)lˈteɪniəsli/ adv.同时地
+
+
+
 
