@@ -302,6 +302,6 @@
 ### 87. Because Azure supports several API versions simultaneously
 - `simultaneously` /ˌsaɪm(ə)lˈteɪniəsli/ adv.同时地
 
-
-
+### 88. typically displayed as a progress bar
+- `typically` adv.通常地
 
