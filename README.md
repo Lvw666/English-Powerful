@@ -305,3 +305,9 @@
 ### 88. typically displayed as a progress bar
 - `typically` adv.通常地
 
+### 89. CLI
+- Command Line Interface
+- 指的是命令行界面
+
+
+
