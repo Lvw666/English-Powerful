@@ -309,5 +309,7 @@
 - Command Line Interface
 - 指的是命令行界面
 
-
+### 90. RESTful API
+- Representational State Transfer API
+- 它是一种设计风格，用于构建分布式系统，特别是在网络环境中，RESTful API设计强调使用HTTP协议中的各种方法来进行交互，如GET、POST、PUT、DELETE等，通过URL定位资源，使用JSON、XML等格式来传输数据
 
