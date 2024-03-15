@@ -264,7 +264,7 @@
 
 ### 60. react-loading-skeleton
 
-- `skeletion` /ˈskelɪt(ə)n/ n.框架；梗概，提纲
+- `skeleton` /ˈskelɪt(ə)n/ n.框架；梗概，提纲
 - 一个 React 显示加载效果的组件
 
 ### 61. Support for annotations
