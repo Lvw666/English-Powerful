@@ -419,5 +419,9 @@
 - `suffix` /ˈsʌfɪks/ n.（单词的）后缀，词尾；
 
 ### 94. The route path for a handler is determined by concatenating the (optional) prefix declared for the controller
+
 - `concatenate` /kənˈkætnˌeɪt/ v.连接，连结
 
+### 95. Exploring Midjourney API for Seamless Image Creation
+
+- `seamless` /ˈsiːmləs/ adj.无缝的；无缝合线的；无伤痕的
