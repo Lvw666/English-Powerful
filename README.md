@@ -425,3 +425,7 @@
 ### 95. Exploring Midjourney API for Seamless Image Creation
 
 - `seamless` /ˈsiːmləs/ adj.无缝的；无缝合线的；无伤痕的
+
+### 96. Nest (NestJS) is a framework for building efficient, scalable Node.js server-side applications.
+
+- `scalable` /ˈskeɪləbl/ adj.可扩展的；可改变大小的，可缩放的
