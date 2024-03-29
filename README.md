@@ -434,3 +434,7 @@
 
 - `malicious` /məˈlɪʃəs/ adj.恶意的，恶毒的，怀恨的
 - 意思是“处理恶意请求数据”。在网络开发中，这通常指的是一系列的策略和技术用来识别、防御和处理发送到你的网站或应用程序的恶意数据。恶意请求可能旨在攻击系统，比如尝试注入恶意代码、执行跨站脚本攻击（XSS）、SQL注入攻击或者其他形式的网络攻击，这些攻击可能破坏网站的正常运作，盗取敏感信息或者获取未授权的数据访问权限
+
+### 98. To get started, you can either scaffold the project with the Nest CLI, or clone a starter project (both will produce the same outcome)
+
+- `scaffold` /ˈskæfoʊld/ n.脚手架 vt.给……搭脚手架
