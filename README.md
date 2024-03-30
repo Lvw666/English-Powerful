@@ -438,3 +438,15 @@
 ### 98. To get started, you can either scaffold the project with the Nest CLI, or clone a starter project (both will produce the same outcome)
 
 - `scaffold` /ˈskæfoʊld/ n.脚手架 vt.给……搭脚手架
+
+### 99. Understand what colocation, partial rendering, and the root layout are
+
+- Colocation (代码共置)
+- 代码共置是一种开发模式，旨在将相关的代码放在一起，以提高模块的内聚性和可维护性。在前端开发中，这可能意味着将组件的 TSX、样式和测试代码放在同一个目录下。这样做的好处是当你在处理或修改一个组件时，你可以很容易地找到和这个组件相关的所有资源和代码，而不需要在项目的不同部分之间跳转
+
+- Partial Rendering (部分渲染)
+- 部分渲染是一种优化技术，允许Web应用仅渲染用户当前需要看到的内容，而不是一次性渲染整个页面。这种方法可以提高页面的加载速度和性能，因为它减少了初次加载所需处理的数据量。在React或类似框架中，部分渲染可以通过条件渲染或使用特定的库和API（如React的React.lazy和Suspense）来实现
+
+- Root Layout (根布局)
+- 根布局是指在Web应用的最顶层定义的布局，所有的页面和视图都会被渲染在这个布局内部。在使用如 Next.js 这样的框架时，根布局是定义全局样式、头部、尾部和其他共享元素的地方。例如，在 Next.js 中，你可以使用 layout.tsx 文件来定义一个根布局，这样你的每个页面都会共享这个布局。根布局让你能够在整个应用中保持一致的外观和感觉，同时减少重复代码
+
