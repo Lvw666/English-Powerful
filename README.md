@@ -457,3 +457,9 @@
 ### 101. sakura
 
 - `sakura` /sakurə/ n.樱花
+
+### 102. Cascading Updates & Cascading Deletes
+
+- `cascade` /kæˈskeɪd/ v.级联
+- 级联更新（Cascading Updates）：允许当一个表中的主键被更新时，所有依赖于该主键的外键也会自动更新，以保持数据的一致性和完整性
+- 级联删除（Cascading Deletes）：允许当一个记录被删除时，所有依赖于该记录的外键约束的记录也会被删除，这有助于维护引用完整性并防止孤立记录的产生
