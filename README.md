@@ -480,3 +480,8 @@
 - `alter` /ˈɔːltər/ v.改变，改动；（使）变化
 - ALTER TABLE "coffee"：这表示要修改名为 coffee 的表
 - RENAME COLUMN "title" TO "name"：这表示将表中的列名从 title 更改为 name
+
+### 106. IOC
+
+- `Inversion of Control`
+- 控制反转是一种设计原则，用于减少计算机代码之间的耦合度。在这种设计模式下，对象的创建和绑定不是由对象本身控制，而是由外部容器或框架来控制和管理，这就“反转”了控制流程。在 NestJS 这样的框架中，IOC 通过依赖注入（Dependency Injection）来实现，这样可以使得代码更加模块化，更易于管理和扩展
