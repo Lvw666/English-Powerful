@@ -485,3 +485,8 @@
 
 - `Inversion of Control`
 - 控制反转是一种设计原则，用于减少计算机代码之间的耦合度。在这种设计模式下，对象的创建和绑定不是由对象本身控制，而是由外部容器或框架来控制和管理，这就“反转”了控制流程。在 NestJS 这样的框架中，IOC 通过依赖注入（Dependency Injection）来实现，这样可以使得代码更加模块化，更易于管理和扩展
+
+### 107. a mock implementation for CoffeesService
+
+- `implementation` n.实施，执行；实现
+- 一个用于 CoffeesService 的模拟实现
