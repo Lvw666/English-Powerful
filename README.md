@@ -514,3 +514,8 @@
 - `suite` /swiːt/ n.套房，套间；一套家具；（程序）组，套；一套产品
 - 在实际应用中，test suite 可能是一个专门的软件框架或工具，如 JUnit、Mocha、Jest 等，它们提供了组织和执行测试的方法。这些测试可以包括单元测试（测试单一功能）、集成测试（测试多个组件的交互）以及系统测试（测试整个系统的行为）
 
+### 113. The Pragmatic Programmer
+
+- `pragmatic` /præɡˈmætɪk/ adj.讲求实际的，务实的
+- 《The Pragmatic Programmer》（《程序员修炼之道》）。这本书是由 Andrew Hunt 和 David Thomas 共同撰写的，旨在指导软件开发人员和计算机程序员如何更加实用和有效地进行编程。书中不仅提供了编程技巧，还强调了职业生涯发展和最佳实践
+
