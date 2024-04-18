@@ -519,3 +519,8 @@
 - `pragmatic` /præɡˈmætɪk/ adj.讲求实际的，务实的
 - 《The Pragmatic Programmer》（《程序员修炼之道》）。这本书是由 Andrew Hunt 和 David Thomas 共同撰写的，旨在指导软件开发人员和计算机程序员如何更加实用和有效地进行编程。书中不仅提供了编程技巧，还强调了职业生涯发展和最佳实践
 
+### 114. detached mode
+
+- `detached` /dɪˈtætʃt/ adj.单独的，分离的；超然的，不带感情的，客观的
+- 在 `docker-compose up -d` 中 `d` 就是代表了以分离模式在后台运行
+
