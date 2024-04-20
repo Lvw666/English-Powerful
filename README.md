@@ -524,3 +524,6 @@
 - `detached` /dɪˈtætʃt/ adj.单独的，分离的；超然的，不带感情的，客观的
 - 在 `docker-compose up -d` 中 `d` 就是代表了以分离模式在后台运行
 
+### 115. latency
+
+- `latency` /ˈleɪtənsi/ n.潜伏；潜在因素
