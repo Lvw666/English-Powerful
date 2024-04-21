@@ -527,3 +527,8 @@
 ### 115. latency
 
 - `latency` /ˈleɪtənsi/ n.潜伏；潜在因素
+
+### 116. prerequisite
+
+- ` /ˌpriːˈrekwəzɪt/ n.先决条件，前提
+
