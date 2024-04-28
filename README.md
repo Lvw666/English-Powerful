@@ -541,3 +541,7 @@
 
 - `assert` /əˈsɜːrt/ v.坚称，断言；维护，坚持（权利或权威）；坚持自己的主张，表现坚定；生效，起作用
 - `console.assert()` 方法是 JavaScript 中的一个调试工具，用于执行断言测试。如果其表达式为 false，则会在控制台输出一条错误消息，这有助于开发者在开发过程中发现逻辑错误或不符合预期的行为。
+
+### 119. Creativity constraints and style guidance
+
+- `constraint` /kənˈstreɪnt/ n.限制，束缚；克制，拘束
