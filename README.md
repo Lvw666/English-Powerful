@@ -545,3 +545,9 @@
 ### 119. Creativity constraints and style guidance
 
 - `constraint` /kənˈstreɪnt/ n.限制，束缚；克制，拘束
+
+### 120. Task Scheduling
+
+- `schedule` /ˈskedʒuːl/ n.
+计划（表），进度表（价目、费用等的）清单；v.安排，预定
+- 在 NestJS 中，task scheduling（任务调度）是一种安排和执行定时任务的机制。这在任何需要定期执行任务的应用中都非常有用，比如发送定期邮件、数据库维护作业、定时数据处理等。NestJS 使用 @nestjs/schedule 模块来实现这一功能，它提供了一个声明式的方式来定义定时任务，使得任务的管理更为简单和直观。
