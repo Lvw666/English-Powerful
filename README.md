@@ -565,3 +565,8 @@
 - `resonate` /ˈrezəneɪt/ v.发出回响，回荡；充满，弥漫（某种特质）；引起共鸣；产生（电或机械）共振
 - 表示我们与你有着相似的感受、观点或情感
 
+### 124. Technically, gateways are platform-agnostic which makes them compatible with any WebSockets library once an adapter is created
+
+- `agnostic` /æɡˈnɑːstɪk/ n.不可知论者；adj.不可知论的；怀疑的
+- `compatible` /kəmˈpætəb(ə)l/ adj.兼容的；可共存的；可和睦相处的；与……一致的
+- 从技术上讲，网关是与平台无关的，所以在 NestJS 中，一旦创建了适配器，它们就与任何 WebSocket 库兼容
