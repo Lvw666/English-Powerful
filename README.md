@@ -575,3 +575,8 @@
 
 - `forgery` /ˈfɔːrdʒəri/ n.伪造，伪造罪；伪造品，赝品
 - CSRF（Cross-Site Request Forgery，跨站请求伪造）是一种网络安全漏洞，它允许攻击者在用户不知情的情况下，利用用户已经认证的Web会话来执行未经授权的操作。这种攻击通常发生在用户已经登录某个服务（如银行、社交媒体等），而攻击者诱导用户（通过点击链接、图片或通过其他方式）访问第三方网站时，该网站发送恶意请求到原先已登录的服务
+
+### 126. to delegate the specific log method call to the parent (built-in) class
+
+- `delegate` /ˈdelɪɡət/ n.代表；委员会成员；v.授权，把……委托给；选派（某人做某事）
+
