@@ -580,3 +580,7 @@
 
 - `delegate` /ˈdelɪɡət/ n.代表；委员会成员；v.授权，把……委托给；选派（某人做某事）
 
+### 127. Internet acronyms
+
+- `acronym` /ˈækrənɪm/ n.首字母缩略词
+
