@@ -584,3 +584,9 @@
 
 - `acronym` /ˈækrənɪm/ n.首字母缩略词
 
+### 128. Covariance and Contravariance
+
+- `covariance` /koʊˈveriəns/ n.协变
+- `contravariance` /kɒntrəˈværɪəns/ n.逆变
+- 协变（covariance）和逆变（contravariance）是类型系统中的两个概念，用来描述类型在泛型上下文中的兼容性和子类型关系。这两个概念主要应用于函数参数和返回值的类型系统中
+
