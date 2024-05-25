@@ -590,3 +590,9 @@
 - `contravariance` /kɒntrəˈværɪəns/ n.逆变
 - 协变（covariance）和逆变（contravariance）是类型系统中的两个概念，用来描述类型在泛型上下文中的兼容性和子类型关系。这两个概念主要应用于函数参数和返回值的类型系统中
 
+### 129. Image, Fonts, and Script Optimizations to improve your application's Core Web Vitals and User Experience.
+
+- `Core Web Vitals` Core Web Vitals（核心Web指标）是谷歌定义的一组用户体验指标，用于评估网页的加载性能、交互性和视觉稳定性。主要包括以下三项指标：
+- Largest Contentful Paint (LCP)：最大内容绘制时间，衡量加载性能
+- First Input Delay (FID)：首次输入延迟，衡量交互性
+- Cumulative Layout Shift (CLS)：累计布局偏移，衡量视觉稳定性
