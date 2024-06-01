@@ -213,7 +213,7 @@
 
 - `variant` /ˈveriənt/ n.变种，变形；（单词拼写或读音的）变异，变体 adj.不同的，变体的，变种的
 
-### 49. thumnailUrl
+### 49. thumbnailUrl
 
 - `thumbnail` /ˈθʌmneɪl/ adj.极小的，极短的 n.拇指指甲；极小的东西；短文
 - 表示缩略图 Url
@@ -283,7 +283,7 @@
 
 ### 64. millisecond
 
-- ` /ˈmɪlɪˌsekənd/ n.毫秒
+- `millisecond` /ˈmɪlɪˌsekənd/ n.毫秒
 
 ### 65. tagline
 
@@ -596,3 +596,11 @@
 - Largest Contentful Paint (LCP)：最大内容绘制时间，衡量加载性能
 - First Input Delay (FID)：首次输入延迟，衡量交互性
 - Cumulative Layout Shift (CLS)：累计布局偏移，衡量视觉稳定性
+
+### 130. Custom Polyfills
+
+- `polyfill` 是“补丁填充”或“兼容性填充”。这是一个编程术语，指的是一种用于在旧版本浏览器或不完全支持某些功能的环境中实现现代 API 和功能的技术方法。通过使用 polyfill，开发者可以确保他们的代码在各种环境中都能正常运行，即使这些环境不支持最新的标准或特性
+
+
+
+
