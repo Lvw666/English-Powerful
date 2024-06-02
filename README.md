@@ -606,6 +606,20 @@
 - `verbose` /vɜːrˈboʊs/ adj.冗长的；啰嗦的
 - 指命名啰嗦
 
+### 132. invoice number
+
+- `invoice` /ˈɪnvɔɪs/ n.发票，账单；货物 v.开发票
+- 指发票编号
+
+
+
+
+
+
+
+
+
+
 
 
 
