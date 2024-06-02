@@ -611,7 +611,10 @@
 - `invoice` /ˈɪnvɔɪs/ n.发票，账单；货物 v.开发票
 - 指发票编号
 
+### 133. Variables defined with var are hoisted to the top and can be initialized at any time
 
+- `hoist` /hɔɪst/ v.吊起，提升
+- 在 JavaScript 中，使用 var 定义的变量会被“提升”到其作用域的顶部。这意味着无论变量在代码中出现的位置，它的声明都会在代码运行之前被移动到当前作用域的顶部。因此，可以在变量声明之前使用这些变量
 
 
 
