@@ -532,10 +532,9 @@
 
 - ` /ˌpriːˈrekwəzɪt/ n.先决条件，前提
 
-### 117. stale 
+### 117. stale
 
 - `stale` /steɪl/ adj.（食物）不新鲜的，变味的；气味不清新的，难闻的；没有新意的，老掉牙的；（因长期从事同一工作而）疲沓的，厌倦的；（支票，合法要求）（因过期而）失效的
-
 
 ### 118. console.assert()
 
@@ -574,7 +573,7 @@
 ### 125. CSRF Protection
 
 - `forgery` /ˈfɔːrdʒəri/ n.伪造，伪造罪；伪造品，赝品
-- CSRF（Cross-Site Request Forgery，跨站请求伪造）是一种网络安全漏洞，它允许攻击者在用户不知情的情况下，利用用户已经认证的Web会话来执行未经授权的操作。这种攻击通常发生在用户已经登录某个服务（如银行、社交媒体等），而攻击者诱导用户（通过点击链接、图片或通过其他方式）访问第三方网站时，该网站发送恶意请求到原先已登录的服务
+- CSRF（Cross-Site Request Forgery，跨站请求伪造）是一种网络安全漏洞，它允许攻击者在用户不知情的情况下，利用用户已经认证的 Web 会话来执行未经授权的操作。这种攻击通常发生在用户已经登录某个服务（如银行、社交媒体等），而攻击者诱导用户（通过点击链接、图片或通过其他方式）访问第三方网站时，该网站发送恶意请求到原先已登录的服务
 
 ### 126. to delegate the specific log method call to the parent (built-in) class
 
@@ -592,7 +591,7 @@
 
 ### 129. Image, Fonts, and Script Optimizations to improve your application's Core Web Vitals and User Experience.
 
-- `Core Web Vitals` Core Web Vitals（核心Web指标）是谷歌定义的一组用户体验指标，用于评估网页的加载性能、交互性和视觉稳定性。主要包括以下三项指标：
+- `Core Web Vitals` Core Web Vitals（核心 Web 指标）是谷歌定义的一组用户体验指标，用于评估网页的加载性能、交互性和视觉稳定性。主要包括以下三项指标：
 - Largest Contentful Paint (LCP)：最大内容绘制时间，衡量加载性能
 - First Input Delay (FID)：首次输入延迟，衡量交互性
 - Cumulative Layout Shift (CLS)：累计布局偏移，衡量视觉稳定性
@@ -620,16 +619,6 @@
 
 - `hang tight` 是一个英语口语表达，意思是“稍等一下”或“坚持住”。它通常用于告诉某人要保持耐心，等待一段时间，或者在面对困难时要坚强
 
+### 135. Exponentiation
 
-
-
-
-
-
-
-
-
-
-
-
-
+- `exponentiation` /ˌekspoʊˌnenʃɪˈeɪʃn/ n.[数] 取幂，求幂；乘方
