@@ -622,3 +622,8 @@
 ### 135. Exponentiation
 
 - `exponentiation` /ˌekspoʊˌnenʃɪˈeɪʃn/ n.[数] 取幂，求幂；乘方
+
+### 136. Bitwise operators
+
+- `bitwise` adj.（计算机）逐位，按位
+- 指位运算符
