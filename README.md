@@ -627,3 +627,7 @@
 
 - `bitwise` adj.（计算机）逐位，按位
 - 指位运算符
+
+### 137. Intuitive to write
+
+- `intuitive` /ɪnˈtuːɪtɪv/ adj.直觉的；有直觉力的；易懂的，使用简便的
