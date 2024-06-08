@@ -631,3 +631,9 @@
 ### 137. Intuitive to write
 
 - `intuitive` /ɪnˈtuːɪtɪv/ adj.直觉的；有直觉力的；易懂的，使用简便的
+
+### 138. The strip() method removes any whitespace from the beginning or the end
+
+- `strip` /strɪp/ v.除去，撕掉；夺去，剥夺
+- strip() 方法用于移除字符串开头和结尾的空白字符。空白字符包括空格、制表符、换行符等。在 Python 中，你可以使用这个方法来清理用户输入或处理字符串数据
+
