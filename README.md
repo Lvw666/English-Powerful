@@ -623,7 +623,21 @@
 
 - `exponentiation` /ˌekspoʊˌnenʃɪˈeɪʃn/ n.[数] 取幂，求幂；乘方
 
-### 136. String Concatenation
+### 136. Bitwise operators
+
+- `bitwise` adj.（计算机）逐位，按位
+- 指位运算符
+
+### 137. Intuitive to write
+
+- `intuitive` /ɪnˈtuːɪtɪv/ adj.直觉的；有直觉力的；易懂的，使用简便的
+
+### 138. The strip() method removes any whitespace from the beginning or the end
+
+- `strip` /strɪp/ v.除去，撕掉；夺去，剥夺
+- strip() 方法用于移除字符串开头和结尾的空白字符。空白字符包括空格、制表符、换行符等。在 Python 中，你可以使用这个方法来清理用户输入或处理字符串数据
+
+### 139. String Concatenation
 
 - `concatenation` /kənˌkætəˈneɪʃn/ n.一系列相互关联的事，连结
 - 在 Python 中，使用 + 操作符可以连接（或合并）两个字符串
