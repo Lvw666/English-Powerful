@@ -622,3 +622,8 @@
 ### 135. Exponentiation
 
 - `exponentiation` /ˌekspoʊˌnenʃɪˈeɪʃn/ n.[数] 取幂，求幂；乘方
+
+### 136. String Concatenation
+
+- `concatenation` /kənˌkætəˈneɪʃn/ n.一系列相互关联的事，连结
+- 在 Python 中，使用 + 操作符可以连接（或合并）两个字符串
