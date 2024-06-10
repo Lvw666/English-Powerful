@@ -641,3 +641,8 @@
 
 - `concatenation` /kənˌkætəˈneɪʃn/ n.一系列相互关联的事，连结
 - 在 Python 中，使用 + 操作符可以连接（或合并）两个字符串
+
+### 140. Assignment operators
+
+- `assignment` /əˈsaɪnmənt/ n.作业，任务；（工作等的）分配，指派；（财产、权利的）转让
+- 指赋值运算符
