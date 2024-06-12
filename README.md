@@ -656,4 +656,8 @@
 
 - `cold boot` 指冷启动
 
+### 143. IIFE
+
+- `Immediately Invoked Function Expression`
+- 指立即调用函数表达式
 
