@@ -661,3 +661,7 @@
 - `Immediately Invoked Function Expression`
 - 指立即调用函数表达式
 
+### 144. Intern
+
+- `intern` /ˈɪntɜːrn/ n.实习生
+
