@@ -665,3 +665,8 @@
 
 - `intern` /ˈɪntɜːrn/ n.实习生
 
+### 145. a diverse set of demonstration conversations
+
+- `demonstration` /ˌdemənˈstreɪʃ(ə)n/ n.演示，展示；游行，示威；证实；表达，表露
+- 指的是一组多样化的示范对话
+
