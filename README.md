@@ -670,3 +670,11 @@
 - `demonstration` /ˌdemənˈstreɪʃ(ə)n/ n.演示，展示；游行，示威；证实；表达，表露
 - 指的是一组多样化的示范对话
 
+### 146. A window overlaid on either the primary window or another dialog window, rendering the content underneath inert
+
+- `overlaid` v.覆盖；放在……上面（overlay 的过去式及过去分词）
+- `underneath` /ˌʌndərˈniːθ/ prep./adv.在……下面，在……底下；在……底面，在……底部；在……表面之下
+- `inert` /ɪˈnɜːrt/ adj.[化学] 惰性的；呆滞的；迟缓的；无效的
+- 指的是一个窗口（或对话框）被覆盖在主窗口或另一个对话框之上，使得底层的内容无法被用户操作或点击。这样设计的目的是为了确保用户只能与最上层的窗口进行交互，而不会误操作到底层窗口的内容
+
+
