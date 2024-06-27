@@ -652,7 +652,7 @@
 - `precedenbce` n.（重要性或地位的）领先，优先权；地位先后，级别高低
 - 指运算符优先级
 
-### 142。 cold boot
+### 142. cold boot
 
 - `cold boot` 指冷启动
 
@@ -681,3 +681,7 @@
 
 - `curate` /ˈkjʊrət/ v.操持（收藏品或展品的）展出；组织（音乐节的）演出
 - 是指在本周经过精心挑选和推荐的一些最佳选择或精选内容。这个短语通常用于描述各种类型的推荐清单
+
+### 148. pydantic.errors.PydanticUserError: Field 'first_name' requires a type annotation
+- `annotation` /ˌænəˈteɪʃ(ə)n/ n.注释，评注；注释，加注
+- 这个错误是由于在 Pydantic 模型中缺少字段类型注释引起的
