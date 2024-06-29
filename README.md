@@ -683,5 +683,10 @@
 - 是指在本周经过精心挑选和推荐的一些最佳选择或精选内容。这个短语通常用于描述各种类型的推荐清单
 
 ### 148. pydantic.errors.PydanticUserError: Field 'first_name' requires a type annotation
+
 - `annotation` /ˌænəˈteɪʃ(ə)n/ n.注释，评注；注释，加注
 - 这个错误是由于在 Pydantic 模型中缺少字段类型注释引起的
+
+### 149. upvote
+
+- `upvote` vt.（线上）赞同，点赞
