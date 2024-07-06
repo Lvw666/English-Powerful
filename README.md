@@ -694,3 +694,7 @@
 ### 150. stack up
 
 - `stack up` 累积，堆积：指物体逐层叠放在一起，形成堆叠的状态；积累，累计：指逐渐增加或累积到一定数量或程度
+
+### 151. official tagline states
+
+- `tagline` n.标语；品牌口号
