@@ -698,3 +698,8 @@
 ### 151. official tagline states
 
 - `tagline` n.标语；品牌口号
+
+### 152. derive from
+
+- `derive` /dɪˈraɪv/ v.获得，取得；起源于，来自；提取，衍生（化学物质）
+
