@@ -707,3 +707,8 @@
 
 - `therefore` adv.因此，所以
 - 我思故我在
+
+### 154. Give the antonym of every input
+
+- `antonym` /ˈæntənɪm/ n.反义词
+- 提供每个输入的反义词
