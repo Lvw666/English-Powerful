@@ -1,5 +1,7 @@
 # English-Powerful
 
+## To make English capacity powerful
+
 ### 1. GPU Clusters(GPU 集群)
 
 - `cluster` /ˈklʌstər/ n.组，簇；星团；一连串同类事件；一群人；丛集，群集
@@ -426,7 +428,7 @@
 
 - `seamless` /ˈsiːmləs/ adj.无缝的；无缝合线的；无伤痕的
 
-### 96. Nest (NestJS) is a framework for building efficient, scalable Node.js server-side applications.
+### 96. Nest (NestJS) is a framework for building efficient, scalable Node.js server-side applications
 
 - `scalable` /ˈskeɪləbl/ adj.可扩展的；可改变大小的，可缩放的
 
@@ -589,7 +591,7 @@
 - `contravariance` /kɒntrəˈværɪəns/ n.逆变
 - 协变（covariance）和逆变（contravariance）是类型系统中的两个概念，用来描述类型在泛型上下文中的兼容性和子类型关系。这两个概念主要应用于函数参数和返回值的类型系统中
 
-### 129. Image, Fonts, and Script Optimizations to improve your application's Core Web Vitals and User Experience.
+### 129. Image, Fonts, and Script Optimizations to improve your application's Core Web Vitals and User Experience
 
 - `Core Web Vitals` Core Web Vitals（核心 Web 指标）是谷歌定义的一组用户体验指标，用于评估网页的加载性能、交互性和视觉稳定性。主要包括以下三项指标：
 - Largest Contentful Paint (LCP)：最大内容绘制时间，衡量加载性能
@@ -712,3 +714,8 @@
 
 - `antonym` /ˈæntənɪm/ n.反义词
 - 提供每个输入的反义词
+
+### 155. By default, each field in the examples object is concatenated together, embedded, and stored in the vectorstore for later similarity search against user queries
+
+- `concatenate` /kənˈkæt(ə)nˌeɪt/ v.连接，连结，使连锁
+- 默认情况下，示例对象中的每个字段都会被连接在一起，然后进行嵌入处理，并存储在向量存储中，以便之后根据用户查询进行相似性搜索
