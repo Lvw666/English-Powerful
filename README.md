@@ -733,3 +733,7 @@
 
 - `User Experience` 用户体验
 
+### 159. flatten
+
+- `flatten` v.（使）变平；（使）变薄；摧毁，夷平
+
